@@ -57,7 +57,7 @@ class Grocery extends Component {
                 </div>
                 <div className="container-fluid">
                     <div className="row">
-                        <div className="col-8">
+                        <div className="col-xl-8 col-sm">
                             <div className="card p-3">
                                 {this.props.groceryList.length === 0 ? noDataFound : groceryListTable}
                             </div>
