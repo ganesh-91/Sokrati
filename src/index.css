@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+html {
+  display: flex;
+  flex: 1;
+  height: 100%;
+}
+
+p {
+  margin-bottom: 0.25rem!important;
+}
+
+html,
+body,
+#root,
+.App,
+.app-container {
+  display: flex;
+  flex: 1;
+}
