@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39a7250ce9ca89b1e9a86f37fd509a18",
+    "revision": "0f478df8222a914283b2d90ae3628c01",
     "url": "/reciepe-grocery-list/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reciepe-grocery-list/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "e81473618e8a8b6a4979",
+    "revision": "e6e7946734c7508c77d9",
     "url": "/reciepe-grocery-list/static/css/main.3638f282.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reciepe-grocery-list/static/js/2.41299da1.chunk.js"
   },
   {
-    "revision": "e81473618e8a8b6a4979",
-    "url": "/reciepe-grocery-list/static/js/main.e2dd4f40.chunk.js"
+    "revision": "e6e7946734c7508c77d9",
+    "url": "/reciepe-grocery-list/static/js/main.6178d1ed.chunk.js"
   },
   {
     "revision": "ed465b124ff84a324314",
