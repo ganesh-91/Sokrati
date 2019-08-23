@@ -2,6 +2,7 @@
   "name": "reciepe-grocery-list",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ganesh-91.github.io/reciepe-grocery-list",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
@@ -16,6 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
